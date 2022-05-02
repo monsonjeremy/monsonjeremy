@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Monson</h1>
-<h3 align="center">I full-stack software engineer from the Bay Area in California.</h3>
+<h3 align="center">I'm a full-stack software engineer located in Santa Clara, California.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsonjeremy&label=Profile%20views&color=0e75b6&style=flat" alt="monsonjeremy" /> </p>
 
