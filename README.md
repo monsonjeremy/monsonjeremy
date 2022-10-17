@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsonjeremy&label=Profile%20views&color=0e75b6&style=flat" alt="monsonjeremy" /> </p>
 
-- 🔭 I’m currently working at [Surfline](https://www.surfline.com)
+- 🔭 I’m currently working at [Rendition](https://www.tryrendition.com)
 - 🌱 I’m currently learning **Rust and Elixir**
 
 <h3 align="left">Connect with me:</h3>
